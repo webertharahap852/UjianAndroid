@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">GOV.ID</string>
+    <string name="thumbnail">Thumbnail</string>
+    <string name="title">Title</string>
+    <string name="title_2">Title 2</string>
+    <string name="title_detail">Title</string>
+    <string name="thumbnaildetail">thumbnaildetail</string>
+    <string name="description_detail">Description</string>
+
+    <string name="date">
+        A thin wrapper around a millisecond value that allows JDBC to identify this as an SQL DATE \n
+        value. A milliseconds value represents the number of milliseconds that have passed since January 1, 1970 00:00:00.000 GMT.
+        To conform with the definition of SQL DATE, the millisecond values wrapped by a java.sql.Date instance
+        must be normalized by setting the hours, minutes, seconds, and milliseconds to zero in the particular time zone with which the instance is associated.
+        </string>
+
+
+    <string name="Jakarta">
+    \n Provinsi: Daerah Istimewa Jakarta\n
+    \n Alamat Kantor:
+        \n JL.Medan Merdeka Selatan\n
+        No.8-9 Jakarta Pusat (10110) \n
+    \n Alamat Website:\n https://www.jakarta.go.id/ \n
+    \n Telfon: (021)-3456058 \n
+    \n Email: dki@jakarta.go.id \n
+    </string>
+
+    <string name="Medan">
+    \n Provinsi: Kota Medan\n
+    \n Alamat Kantor:
+        \n Jl. Kapten Maulana Lubis \n
+        No. 2 Medan \n
+    \n Alamat Website:\n http://www.pemkomedan.go.id/ \n
+    \n Telfon: (061)-4535179 \n
+    \n Email: kominfo@pemkomedan.go.id \n
+    </string>
+
+    <string name="Kalbar">
+    \n Provinsi: Kalimantan Barat \n
+    \n Alamat Kantor:
+        \n JL. Ahmad Yani, Pontianak (78124)\n
+    \n Alamat Website:\n https://www.jakarta.go.id/ \n
+    \n Telfon: (0561) 736541, 732001 \n
+    \n Email: - \n
+    </string>
+
+    <string name="Bali">
+    \n Provinsi:Bali \n
+    \n Alamat Kantor:
+        \n JL.Medan Merdeka Selatan\n
+        No.8-9 Jakarta Pusat (10110) \n
+    \n Alamat Website:\n http://www.baliprov.go.id/ \n
+    \n Telfon: (0361)-224671, 35155 \n
+    \n Email: - \n
+    </string>
+
+    <string name="nusatt">
+    \n Provinsi: Nusa Tenggara Timur \n
+    \n Alamat Kantor:
+        \n JL. El Tari No.52, Oebobo\n
+        Kota Kupang, NTT (85111 \n
+    \n Alamat Website:\n http://nttprov.go.id/ntt2016/ \n
+    \n Telfon: (0380)-833111, 833247 \n
+    \n Email: -\n
+    </string>
+
+    <string name="Papua">
+    \n Provinsi: Daerah Istimewa Jakarta\n
+    \n Alamat Kantor:
+        \n JL. Soa Sio Dok, Jayapura (99115)
+    \n Alamat Website:\n https://papua.go.id/ \n
+    \n Telfon: (0967) - 537523\n
+    \n Email:- \n
+    </string>
+
+    <string name="edit">A TextView displays text to the user and optionally allows them to edit it.
+        A TextView is a complete text editor, however the basic class is configured to not allow editing.
+        </string>
+
+    <string name="camera">The Android framework includes support for various cameras and camera features
+        available on devices, allowing you to capture pictures and videos in your applications.
+        This document discusses a quick, simple approach to image and video capture and outlines an advanced
+        approach for creating custom camera experiences for your users.</string>
+
+    <string name="recyclerview">RecyclerView is the ViewGroup that contains the views corresponding to your data.
+        Its a view itself so you add RecyclerView into your layout the way you would add any other UI element.
+        Each individual element in the list is defined by a view holder object.
+        RecyclerView is a ViewGroup added to the android studio as a successor of the GridView and ListView.
+        It is an improvement on both of them and can be found in the latest v-7 support packages.
+        It has been created to make possible construction of any lists with XML layouts as an item
+        which can be customized vastly while improving on the efficiency of ListViews and GridViews.
+    </string>
+    <string name="desc">Desc</string>
+    <string name="show_map">Show Map</string>
+</resources>
